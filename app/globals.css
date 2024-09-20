@@ -25,3 +25,16 @@ body {
     text-wrap: balance;
   }
 }
+
+
+h1{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20%;
+  font-size: 3rem;
+  text-decoration: 4px solid underline orange;
+  background-color: rgb(39, 39, 39);
+  padding: 20px 20px;
+}
